@@ -1,0 +1,10 @@
+.container {
+    font-family: "Maven Pro";
+    color: aliceblue;
+    background-color: #7B1522;
+    width: 500px;
+    height: 1080px;
+    padding: 10px;
+    margin: 10px;
+}
+
