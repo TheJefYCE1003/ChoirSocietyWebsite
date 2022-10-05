@@ -3,8 +3,40 @@
     color: aliceblue;
     background-color: #7B1522;
     width: 500px;
-    height: 1080px;
+    min-height: 500px;
+    max-height: fit-content;
     padding: 10px;
     margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
 }
 
+.header {
+    width: fit-content;
+    height: 170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contents {
+    min-height: 400px;
+    max-height: fit-content;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+.imglogo {
+    width:200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    height: 20px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
