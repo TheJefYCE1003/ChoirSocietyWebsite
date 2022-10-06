@@ -15,9 +15,35 @@
 
 .header {
     width: fit-content;
-    height: 170px;
+    height: 150px;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* Navbar */
+.main_nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #480c13;
+    border-radius: 10px;
+}
+
+.main_nav li {
+    float: left;
+}
+
+.main_nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.main_nav li a:hover {
+    background-color: #941827;
 }
 
 .contents {
