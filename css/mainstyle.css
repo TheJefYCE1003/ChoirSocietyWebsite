@@ -55,7 +55,7 @@ body {
     max-height: fit-content;
     margin-left: 20px;
     margin-right: 20px;
-    text-align: justify;
+    /* text-align: justify;  */
 }
 
 .imglogo {
