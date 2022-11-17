@@ -6,20 +6,19 @@ body {
     font-family: "Maven Pro";
     color: aliceblue;
     background-color: #7B1522;
-    width: 380px;
+    width: 360px;
     min-height: 500px;
     max-height: fit-content;
-    padding: 10px;
-    margin: 5px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
     box-shadow: 5px 5px 10px grey;
+    
 }
 
 .header {
     width: fit-content;
-    height: 100px;
+    height: max-content;
     margin-left: auto;
     margin-right: auto;
 }
@@ -59,9 +58,58 @@ body {
 }
 
 .imglogo {
-    width:200px;
-    margin-left: auto;
+    margin-left: 30px;
     margin-right: auto;
+    margin-top: 10px;
+}
+
+div.card {
+    background-color: #c09fa3;
+    padding: 10px;
+    margin: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+div.card2 {
+    background-color: #c09fa3;
+    padding: 10px;
+    margin: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+div a {
+    text-decoration: none;
+}
+
+p.detail_indicator {
+    font-size: 10px;
+    line-height: 7px;
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+div.card2 h3 {
+    margin-top: 0px;
+    font-weight: bolder;
+}
+
+button.back {
+    width: 80px;
+    height: 40px;
+    margin: 5px;
+    background-color: #941827;
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px;
+
 }
 
 .footer {
