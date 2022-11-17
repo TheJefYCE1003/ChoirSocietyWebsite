@@ -112,6 +112,11 @@ button.back {
 
 }
 
+mark {
+    background-color: yellow;
+    color: black; 
+}
+
 .footer {
     height: 20px;
     width: fit-content;
