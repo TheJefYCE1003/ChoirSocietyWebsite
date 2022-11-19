@@ -117,6 +117,15 @@ mark {
     color: black; 
 }
 
+button.form {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    height: 25px;
+    width: 100px;
+    font-weight: bold;
+}
+
 .footer {
     height: 20px;
     width: fit-content;
