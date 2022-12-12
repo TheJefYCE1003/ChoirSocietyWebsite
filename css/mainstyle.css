@@ -113,8 +113,8 @@ button.back {
 }
 
 mark {
-    background-color: yellow;
-    color: black; 
+    background-color: rgb(135, 179, 236);
+    color: black;
 }
 
 button.form {
