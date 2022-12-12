@@ -116,6 +116,10 @@ button.back {
 
 }
 
+.detail_title {
+    margin-top: 0px;
+}
+
 mark {
     background-color: rgb(135, 179, 236);
     color: black;
