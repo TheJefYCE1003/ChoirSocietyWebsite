@@ -50,6 +50,7 @@ body {
 }
 
 .contents {
+    font-family: "Maven Pro";
     min-height: 400px;
     max-height: fit-content;
     margin-left: 20px;
@@ -64,6 +65,7 @@ body {
 }
 
 div.card {
+    font-family: "Maven Pro";
     background-color: #c09fa3;
     padding: 10px;
     margin: 5px;
@@ -75,6 +77,7 @@ div.card {
 }
 
 div.card2 {
+    font-family: "Maven Pro";
     background-color: #c09fa3;
     padding: 10px;
     margin: 5px;
@@ -102,6 +105,7 @@ div.card2 h3 {
 }
 
 button.back {
+    font-family: "Maven Pro";
     width: 80px;
     height: 40px;
     margin: 5px;
@@ -118,6 +122,7 @@ mark {
 }
 
 button.form {
+    font-family: "Maven Pro";
     margin-top: 10px;
     margin-bottom: 5px;
     border-radius: 5px;
@@ -127,6 +132,7 @@ button.form {
 }
 
 .footer {
+    font-family: "Maven Pro";
     height: 20px;
     width: fit-content;
     margin-left: auto;
